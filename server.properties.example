@@ -1,0 +1,14 @@
+# Copy this to data/server.properties and fill it in. Never put this file on GitHub.
+port=8080
+publicUrl=https://kelplauncher.org
+# SHA-256 of your admin key (make a long random key, then: java -cp kelp-server.jar ... or any sha256 tool)
+adminKeyHash=
+# Players who get the Dev wrench badge (Minecraft UUIDs, comma separated)
+devPlayers=
+launch=2028-01-01
+# Email for parents (approve and sign-in links). Leave mailHost empty to print emails instead.
+mailHost=
+mailPort=587
+mailUser=
+mailPassword=
+mailFrom=Kelp <no-reply@kelplauncher.org>
