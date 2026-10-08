@@ -1,6 +1,6 @@
 # Kelp Server
 
-The server behind [Kelp](https://github.com/SamuelArther/kelp) and [Squid](https://github.com/SamuelArther/squid):
+The server behind [Kelp](https://github.com/KelpSquid/kelp) and [Squid](https://github.com/KelpSquid/squid):
 accounts, capes, emblems, badges, profiles, sharing, friends and messages, the Parent Portal, the Squid Count
 leaderboard and the website. One small Java program with no outside libraries.
 

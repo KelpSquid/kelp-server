@@ -31,7 +31,7 @@ public final class Pages {
                   <li>Skate 3 style replays, instant clips, and your own emblem</li>
                   <li>120 languages, world backups, and Parent Controls</li>
                 </ul>
-                <p><a class="button" href="https://github.com/SamuelArther/kelp/releases/latest">Download Kelp</a></p>
+                <p><a class="button" href="https://github.com/KelpSquid/kelp/releases/latest">Download Kelp</a></p>
                 <p><a href="/leaderboard">Squid Count leaderboard</a> &middot; <a href="/parents">Parent Portal</a> &middot; <a href="/privacy">Privacy</a></p>
                 """)));
         r.add("GET /u/{name}", req -> {
